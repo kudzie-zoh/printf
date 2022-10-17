@@ -2,7 +2,6 @@
 
 /**
  * rev_string - reverses a string in place
- *
  * @s: string to reverse
  * Return: A pointer to a character
  */

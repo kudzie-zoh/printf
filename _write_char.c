@@ -9,5 +9,6 @@
  */
 int _write_char(char c)
 {
+	/* Renamed _putchar function */
 	return (write(1, &c, 1));
 }

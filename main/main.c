@@ -4,6 +4,7 @@
 
 /**
  * main - Entry point
+ * Description: Provided by ALX
  *
  * Return: Always 0
  */

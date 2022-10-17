@@ -1,1 +1,3 @@
-A team project on creating printf, collaborating with Carrroline Chidziwo.
+A team project on creating printf, 
+collaborators - Carrroline Chidziwo.
+              - Kudzai Zoraunye.
